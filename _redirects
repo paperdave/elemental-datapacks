@@ -1,0 +1,3 @@
+# redirect old location of "harry's sounds"
+/harry/:sound /audio/harry/:sound    200
+
