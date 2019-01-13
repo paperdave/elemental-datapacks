@@ -1,0 +1,11 @@
+{
+    "name": "Windows XP Sounds By Colyderp",
+    "sounds": {
+        "discover-new": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1HodVS6MqZ3.mp3",
+        "discover-old": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1VrwRXCwCeQ.mp3",
+        "discover-nothing": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1AVRG6GP4kc.mp3",
+        "drop": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1uYJxQ3zyG2.mp3",
+        "pickup": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1RqarUHBQPF.mp3",
+        "suggestion-sent": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1Xg3ke6Px63.mp3"
+    }
+}

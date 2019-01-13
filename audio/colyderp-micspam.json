@@ -1,0 +1,11 @@
+{
+    "name": "Mic Spam Sounds By Colyderp im so sorry",
+    "sounds": {
+        "discover-new": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1f6O00Y872t.mp3",
+        "discover-old": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1v2LfuHmUdr.mp3",
+        "discover-nothing": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s104FWm4AAAB.mp3",
+        "drop": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1jaxaRIsvYB.mp3v",
+        "pickup": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s1vbgQlBd4qF.mp3",
+        "suggestion-sent": "https://s1.vocaroo.com/media/download_temp/Vocaroo_s14aTkpMY3AC.mp3"
+    }
+}

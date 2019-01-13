@@ -1,0 +1,11 @@
+{
+    "name": "Discord Sounds By Colyderp",
+    "sounds": {
+        "discover-new": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0KgeumWx8XF.mp3",
+        "discover-old": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0Ypbexg2EcI.mp3",
+        "discover-nothing": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0WutEsDZV8g.mp3",
+        "drop": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0ZI8uLIhgD1.mp3",
+        "pickup": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s088YDNyXlkV.mp3",
+        "suggestion-sent": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0LR39M2O4es.mp3"
+    }
+}

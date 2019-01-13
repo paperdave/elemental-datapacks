@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+
+    * {box-sizing: border-box;}
+    body {
+        font-family: sans-serif;
+        height: 100%;
+        margin: 0;
+    }
+    .bg {
+        z-index: -9;
+        top:0;
+        left:0;
+        width:100vw;
+        height:100vh;
+        position: fixed;
+        background: linear-gradient(153deg, rgb(175, 95, 202) 0%, rgb(192, 109, 109) 100%);
+
+    }
+    main {
+        padding: 1em;
+    }
+    .paper {
+        transition: all 200ms;
+        background: white;
+        min-height: 100vh;
+        box-shadow: 0 2px 6px rgba(0,0,0,.5);
+        padding: 20px;
+    }
+    .paper,main {
+        margin: auto;
+        max-width: 800px;
+        width: 100%;
+    }
+    a:active {
+    	color: #ff12df;
+	}
+	a:not(:hover) {
+    	text-decoration: none;
+	}
+
+	a {
+   		color: #9012ff;
+	}
+    </style>
+</head>
+<body>
+    <div class="bg"></div>
+    <div class="paper">
+        <h1 style="text-align:center;padding-top:0.5em">Elemental 4 Sound Packs and Themes</h1>
+        <p>
+            Elemental 4 got custom Sound Packs and Themes, and here is where the community made ones are listed.
+        </p>
+        <ul>
+            <li><a class="soundpack-link" href="./audio/harry.json">Harry's Sounds</a></li>
+            <li><a class="soundpack-link" href="./audio/colyderp-discord.json">Discord Sounds by Colyderp</a></li>
+            <li><a class="soundpack-link" href="./audio/colyderp-windows-xp.json">Windows XP Sounds</a></li>
+            <li><a class="soundpack-link" href="./audio/colyderp-micspam.json">Mic Spam Sounds By Colyderp im so sorry</a></li>
+            <li><a class="soundpack-link" href="./audio/gold-is-the-new-silence.json">Gold is the new Silence</a></li>
+        </ul>
+        <script src="./generate.js"></script>
+    </div>
+</body>
+</html>
