@@ -1,11 +1,11 @@
 {
     "name": "Harry's Sounds",
     "sounds": {
-        "discover-new": "http://elemental.netlify.com/harry/discover-new.wav",
-        "discover-old": "http://elemental.netlify.com/harry/discover-old.wav",
-        "discover-nothing": "http://elemental.netlify.com/harry/discover-nothing.wav",
-        "drop": "http://elemental.netlify.com/harry/drop.wav",
-        "pickup": "http://elemental.netlify.com/harry/discover-nothing.wav",
-        "suggestion-sent": "http://elemental.netlify.com/harry/discover-nothing.wav"
+        "discover-new": "https://elemental.netlify.com/audio/harry/discover-new.wav",
+        "discover-old": "https://elemental.netlify.com/audio/harry/discover-old.wav",
+        "discover-nothing": "https://elemental.netlify.com/audio/harry/discover-nothing.wav",
+        "drop": "https://elemental.netlify.com/audio/harry/drop.wav",
+        "pickup": "https://elemental.netlify.com/audio/harry/discover-nothing.wav",
+        "suggestion-sent": "https://elemental.netlify.com/audio/harry/discover-nothing.wav"
     }
 }
