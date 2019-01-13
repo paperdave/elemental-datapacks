@@ -1,0 +1,9 @@
+{
+    "name": "Earthbound",
+    "sounds": {
+        "discover-new": "http://starmen.net/mother2/soundfx/itemget2.wav",
+        "discover-old": "http://starmen.net/mother2/soundfx/itemget1.wav",
+        "discover-nothing": "http://starmen.net/mother2/soundfx/error.wav",
+        "suggestion-sent": "http://starmen.net/mother2/soundfx/statsup.wav"
+    }
+}
