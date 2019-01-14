@@ -6,6 +6,6 @@
         "discover-nothing": "https://elemental.netlify.com/audio/harry/discover-nothing.wav",
         "drop": "https://elemental.netlify.com/audio/harry/drop.wav",
         "pickup": "https://elemental.netlify.com/audio/harry/discover-nothing.wav",
-        "suggestion-sent": "https://elemental.netlify.com/audio/harry/discover-nothing.wav"
+        "suggestion-sent": "https://elemental.netlify.com/audio/harry/suggest_new.wav"
     }
 }
