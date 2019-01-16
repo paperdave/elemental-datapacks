@@ -1,0 +1,11 @@
+{
+    "name": "Minecraft Sounds By Colyderp",
+    "sounds": {
+        "discover-new": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s00kofNCNhvW.mp3",
+        "discover-old": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0aQ618wmWwV.mp3",
+        "discover-nothing": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0WEO0LzZ9vw.mp3",
+        "drop": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0OTEva7sbiq.mp3",
+        "pickup": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s04UxQcAp3Mk.mp3",
+        "suggestion-sent": "https://s0.vocaroo.com/media/download_temp/Vocaroo_s0hIXX7XtBUH.mp3"
+    }
+}
