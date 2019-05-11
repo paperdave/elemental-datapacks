@@ -1,0 +1,8 @@
+{
+    "name": "Elemental 2",
+    "sounds": {
+        "discover-new": "https://cdn.discordapp.com/attachments/533858061396213764/576605244104900650/Sound_1_at_frame_0.mp3",
+        "discover-old": "https://cdn.discordapp.com/attachments/533858061396213764/576605245484957731/Sound_3_at_frame_0.mp3",
+        "discover-nothing": "https://cdn.discordapp.com/attachments/533858061396213764/576605247213010963/Sound_2_at_frame_0.mp3"
+    }
+}
